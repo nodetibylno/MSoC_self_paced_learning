@@ -37,9 +37,9 @@ This is a github repository for self-paced hls projects.
 * build process
 
 ## Algorithm
-CORDIC
-Prefixsum and Histogram
-Sparse matrix vector multiplication
+* CORDIC
+* Prefixsum and Histogram
+* Sparse matrix vector multiplication
 
 ## References
 R. Kastner, J. Matai, and S. Neuendorffer , Parallel Programming for FPGAs, arXiv , 2018.

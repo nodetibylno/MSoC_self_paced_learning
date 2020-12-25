@@ -1,15 +1,4 @@
-# Jini-Intelligent-Computing-Lab2
-
-
-
-<br />
-<p align="center">
-
-  <h3 align="center">MSOC-HLS project github template</h3>
-  
-</p>
-
-
+# MSoC Self-paced learning
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
@@ -27,7 +16,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-This is a template github repository for hls projects with credits >3.
+This is a github repository for self-paced hls projects.
 
 **Directory structure**
 * **README.md** - introduce the project, algorithm, reference ....
@@ -48,18 +37,19 @@ This is a template github repository for hls projects with credits >3.
 * build process
 
 ## Algorithm
-
+CORDIC
+Prefixsum and Histogram
+Sparse matrix vector multiplication
 
 ## References
+R. Kastner, J. Matai, and S. Neuendorffer , Parallel Programming for FPGAs, arXiv , 2018.
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
 
-
 <!-- LICENSE -->
 ## License
-
 
 
 <!-- CONTACT -->

@@ -1,4 +1,4 @@
-# MSoC Self-paced learning
+# MSoC Self-paced Learning
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
